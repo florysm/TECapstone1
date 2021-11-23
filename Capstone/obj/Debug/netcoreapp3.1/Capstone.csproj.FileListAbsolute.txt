@@ -1,0 +1,15 @@
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\bin\Debug\netcoreapp3.1\Capstone.exe
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\bin\Debug\netcoreapp3.1\Capstone.deps.json
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\bin\Debug\netcoreapp3.1\Capstone.runtimeconfig.json
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\bin\Debug\netcoreapp3.1\Capstone.runtimeconfig.dev.json
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\bin\Debug\netcoreapp3.1\Capstone.dll
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\bin\Debug\netcoreapp3.1\Capstone.pdb
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\obj\Debug\netcoreapp3.1\Capstone.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\obj\Debug\netcoreapp3.1\Capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\obj\Debug\netcoreapp3.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\obj\Debug\netcoreapp3.1\Capstone.AssemblyInfo.cs
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\obj\Debug\netcoreapp3.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\obj\Debug\netcoreapp3.1\Capstone.dll
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\obj\Debug\netcoreapp3.1\Capstone.pdb
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\obj\Debug\netcoreapp3.1\Capstone.genruntimeconfig.cache
+C:\Users\Student\workspace\Capstone\VendingMachine\csharp-capstone-module-1-team-3\Capstone\bin\Debug\netcoreapp3.1\vendingmachine.csv
